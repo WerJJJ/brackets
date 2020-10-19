@@ -34,7 +34,6 @@ module.exports = function check(str, bracketsConfig) {
       return false;
     }
   }
-  if (str == '5555512575557777777555566667888888667661133833448441111222233333444442266666') return false;
   return true;
 }
 
